@@ -1,0 +1,10 @@
+1. PHP: This is a general purpose scripting language used primarily in web development. Facebook uses PHP.
+2. Django: This is a framework used for creating websites using the Python programming language.
+3. jQuery: This is a library for Javascript that helps make websites more dynamic quicker and easier.
+4. Node.JS: A platform for building fast and scalable network connections. It uses Google's V8 runtime engine, but is not a JavaScript framework.
+5. Lucee: a "lightweight" scripting language, like PHP and JavaScript, that allows for quickly building simple and sophisticated websites.
+6. TDD: This stands for "Test-Driven Development," and it means that a cycle of tests and development is used to build an application, such as creating a test, and then writing code until the test passes as expected.
+7. ASP.NET: A Microsoft framework for building websites with HTML, CSS, and JavaScript.
+8. Bootstrap: A framework for website development that was created by Twitter to standardize their look and feel. It has a focus on mobile app/website development.
+9. SASS: "Syntactically Awesome Style Sheets," is a CSS extension language to increase the abilities of CSS.
+10. BASH: This is the GNU Project's shell for command line, increased size command history, and setting shell functions and aliases. It comes stock on Mac's and Linux devices, but only recently has been brought to Windows.

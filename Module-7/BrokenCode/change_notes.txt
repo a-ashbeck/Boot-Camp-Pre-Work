@@ -1,0 +1,35 @@
+HTML doc errors:
+
+1. The title bar's h1 tags were were left out.
+2. Someone added a box to tell me that the page has been vandalized, but didn't bother to fix the page themselves.
+3. Div tags at the start of the about and picture panels were not properly indented.
+4. Sentences in the about sections were not separated by p tags.
+5. The wikipedia link was missing from the href in the a tags.
+6. Proper indentation was lacking in the closing div tags for the about panel.
+7. Proper indentation was lacking in the opening div tags for the picture panel.
+8. The img tag for the picture of Boo did not have square brackets at either end.
+9. Div tags at the close of the picture panel did not have proper indentation.
+10. The text-center class was given to the first child div, and not the parent div after the first set of br tags.
+11. Div tags in the second row were not properly spaced and indented.
+12. The shrink/grow and text color games did not work, and were placed on the wrong row.
+13. Text-center attribute was placed on the shrink/grow and text color game's div, instead of with the parent div with "row."
+14. Fact button div's text-center was placed on the first child in the div, not the parent div with the row attribute.
+15. Text-center attribute missing from text color game div with class col-sm-6.
+16. The id's in the the text color game were mismatched.
+17. The favorite thing's and random fact row was missing proper indentation and whitespacing.
+18. Oredered list items were missing li tags.
+19. Note for javascript file link missing from bottom of HTML file.
+20. Linked JS file src was "errors.js," not logic.js.
+
+JS doc errors:
+
+1. All notes are missing from the JS file.
+2. Proper spacing and indentation was missing from text color button functions.
+3. booFacts array is missing quotes for EACH array item, instead translating the whole thing as a single array item.
+4. The portion of the boxGrow function that increased the size of the box was not properly formatted.
+5. In the pink color change function, the word "pink" was not in quotes.
+6. the "click" parameters in the grow and shrink functions are not in quotes.
+
+CSS doc errors:
+
+None
